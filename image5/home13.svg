@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="u-visually-hidden">
+      <linearGradient id="rating-star-gradient-half">
+        <stop offset="50%" stop-color="var(--product-star-rating)"/>
+        <stop offset="50%" stop-color="var(--text-color-light)"/>
+      </linearGradient>
+    </svg>
